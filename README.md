@@ -150,6 +150,8 @@ pytest --cov=. --cov-report=html
 AI tools were used for guidance, architecture suggestions, test case generation, and debugging.  
 All logic was reviewed, understood, and implemented manually.
 
+I used Chatgpt for Documentation,File Structure and for System Designs
+
 ---
 
 ## 🚀 Deployment
