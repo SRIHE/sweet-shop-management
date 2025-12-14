@@ -172,7 +172,7 @@ vercel
 ---
 
 ## 👨‍💻 Author
-Sriram Balkrishnan
+Sriram B
 
 ## 📄 License
 MIT License
