@@ -91,25 +91,25 @@ pytest --cov=. --cov-report=html
 ## 📸 Screenshots
 
 ### Login Page
-![Login](screenshots/login.jpg)
+![Login](Screenshots/login.jpg)
 
 ### Register Page
-![Register](screenshots/register.jpg)
+![Register](Screenshots/register.jpg)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.jpg)
+![Admin Dashboard](Screenshots/admin-dashboard.jpg)
 
 ### Add New Sweet
-![Add Sweet](screenshots/add-sweet.jpg)
+![Add Sweet](Screenshots/add-sweet.jpg)
 
 ### Search & Filter
-![Search](screenshots/search.jpg)
+![Search](Screenshots/search.jpg)
 
 ### Restock Inventory
-![Restock](screenshots/restock.jpg)
+![Restock](Screenshots/restock.jpg)
 
 ### User Dashboard
-![User Dashboard](screenshots/user-dashboard.jpg)
+![User Dashboard](Screenshots/user-dashboard.jpg)
 
 ---
 
